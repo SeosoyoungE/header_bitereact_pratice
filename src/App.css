@@ -40,6 +40,5 @@ header i {
 }
 header i:active,
 header i:hover {
-  color: blueviolet;
-  font-weight: bold;
+  color: chocolate;
 }
